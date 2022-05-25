@@ -11,4 +11,6 @@
     <color name="main_background">#005C8C</color>
     <color name="dark_green">#00B128</color>
     <color name="dark_background">#003060</color>
+    <color name="textHintColor_edit">#6B778C</color>
+    <color name="textColor_edit">#172B4D</color>
 </resources>
