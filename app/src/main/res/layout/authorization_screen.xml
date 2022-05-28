@@ -44,10 +44,11 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="54dp"
         android:text="Войти"
+        android:onClick="signInApp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword" />
+        app:layout_constraintTop_toBottomOf="@+id/AuthTextPassword" />
 
     <TextView
         android:id="@+id/textView3"
@@ -65,7 +66,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress"
+        android:id="@+id/AuthEmailAddress"
         style="@style/edittext_style"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -79,7 +80,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
     <EditText
-        android:id="@+id/editTextTextPassword"
+        android:id="@+id/AuthTextPassword"
         style="@style/edittext_style"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -95,7 +96,7 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="45dp"
+        android:layout_marginStart="42dp"
         android:layout_marginTop="46dp"
         android:text="Почта"
         android:textColor="@color/white"
@@ -106,12 +107,12 @@
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="45dp"
+        android:layout_marginStart="42dp"
         android:layout_marginTop="34dp"
         android:text="Пароль"
         android:textColor="@color/white"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextEmailAddress" />
+        app:layout_constraintTop_toBottomOf="@+id/AuthEmailAddress" />
 
     <Button
         android:id="@+id/button3"
