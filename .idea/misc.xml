@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.243" />
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.243" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/drawable/ic_launcher_background.xml" value="0.164" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/drawable/ic_news_background.xml" value="0.164" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/drawable/ic_news_foreground.xml" value="0.164" />
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.243" />
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/drawable/main_button_shape.xml" value="0.2655" />
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/drawable/main_button_style.xml" value="0.3275" />
@@ -16,11 +19,20 @@
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/layout/activity_login_screen.xml" value="0.24864130434782608" />
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/layout/authorization_screen.xml" value="0.23673469387755103" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/layout/finance_screen.xml" value="0.22573749465583584" />
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/layout/fragment_dashboard.xml" value="0.22573749465583584" />
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/layout/fragment_home.xml" value="0.21419410004275333" />
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/layout/fragment_notifications.xml" value="0.22573749465583584" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/layout/news_screen.xml" value="0.22573749465583584" />
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/layout/registration_screen.xml" value="0.2" />
         <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22573749465583584" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/mipmap-anydpi-v26/ic_finance.xml" value="0.164" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/mipmap-anydpi-v26/ic_finance_round.xml" value="0.164" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/mipmap-anydpi-v26/ic_news.xml" value="0.164" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/mipmap-anydpi-v26/ic_news_round.xml" value="0.164" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/mipmap-anydpi-v26/ic_tasks.xml" value="0.164" />
+        <entry key="..\:/Users/Lena/AndroidStudioProjects/Business_Assistant/app/src/main/res/mipmap-anydpi-v26/ic_tasks_round.xml" value="0.164" />
       </map>
     </option>
   </component>

@@ -9,8 +9,6 @@
     <string name="basket">Корзина</string>
     <string name="orders">Заказы</string>
     <string name="counterparties">Контрагенты</string>
+
     <string name="title_activity_home">HomeActivity</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
 </resources>
